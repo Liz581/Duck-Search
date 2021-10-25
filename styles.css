@@ -1,3 +1,6 @@
 body {
-    background-color: rgb(70, 114, 155);
+    background-color: rgb(79, 90, 100);
 }
+
+#maze_pick {width: 300px; }
+#maze_pick li { width: 200px; display: inline-block; }
