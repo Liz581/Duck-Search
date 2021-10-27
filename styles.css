@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(79, 90, 100);
+    background-color: rgb(115, 118, 121);
 }
 
 .center {
@@ -9,5 +9,12 @@ body {
     width: 50%;
 }
 
-#maze_pick {width: 300px; }
-#maze_pick li { width: 200px; display: inline-block; }
+.whites {
+    text-align: center;
+    color:floralwhite;
+}
+
+.dark {
+    text-align: center;
+    color:black;
+}
